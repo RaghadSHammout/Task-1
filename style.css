@@ -1,0 +1,19 @@
+body {
+    margin: 25px;
+}
+
+.main-title {
+    font-size: 32px;
+    font-weight: 700;
+    margin: 0;
+}
+
+
+#social-media a i{
+    margin-right: 5px;
+}
+
+iframe {
+    border-radius: 100%;
+}
+
